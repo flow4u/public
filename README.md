@@ -3,6 +3,7 @@
 # [Covid_19.ipynb](https://github.com/flow4u/public/blob/master/Covid_19.ipynb)
 
 **Update**
+2020-02-27: Additional countries added to filters, code improvement to make adding new countries to filters easier
 2020-02-26: Additional countries added to filters, Graph 3: Recovered + Deaths added
 
 A Colab notebook to display the linked data from [Data Repository by Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19)
