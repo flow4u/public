@@ -4,7 +4,9 @@
 
 **Update**
 2020-02-27: Additional countries added to filters, code improvement to make adding new countries to filters easier
+
 2020-02-26: Additional countries added to filters, Graph 3: Recovered + Deaths added
+
 2020-02-29: Additional countries added
 
 A Colab notebook to display the linked data from [Data Repository by Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19)
