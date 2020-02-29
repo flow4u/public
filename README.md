@@ -3,6 +3,7 @@
 # [Covid_19.ipynb](https://github.com/flow4u/public/blob/master/Covid_19.ipynb)
 
 **Update**
+- 2020-02-29: Additional countries added, some regrouping for filters, different formulat for %deaths (deaths/(deaths+recovered))
 - 2020-02-28: Additional countries added
 - 2020-02-27: Additional countries added to filters, code improvement to make adding new countries to filters easier
 - 2020-02-26: Additional countries added to filters, Graph 3: Recovered + Deaths added
@@ -25,4 +26,4 @@ The filters need to be updated manually when new countries are added to the CSSE
 - Recovered + Deaths
 ### Graph 4
 - Recovery Days (date difference between Confirmed >= (Deaths+Recovered)
-- Mortality (% Deaths / Confirmed)
+- Mortality (% Deaths / (Deaths+Recovered)
