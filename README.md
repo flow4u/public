@@ -9,8 +9,7 @@
 - 2020-02-26: Additional countries added to filters, Graph 3: Recovered + Deaths added
 
 A Colab notebook to display the linked data from [Data Repository by Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19)
-A number of filters can be applied: All, Mainland China, All excl Mainland China, Asia, Europe, Russia, Indian, Western (Europe +
-Japan + North America + Australia, Middle East, Others)
+A number of filters can be applied (e.g. Europe, Asia, Asia excl Mainland China, Mainland China)
 
 The filters need to be updated manually when new countries are added to the CSSEGISandData datasets.
 
