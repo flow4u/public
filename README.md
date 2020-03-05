@@ -4,6 +4,9 @@
 
 **Update**
 - 2020-03-05: Additional cuntries added
+- 2020-03-04: Additional countries added, a few extra filters
+- 2020-03-03: Additional countries added, death rate upper and lower estimate
+- 2020-03-02: Additional countries added, made it a bit quicker to update filters
 - 2020-03-01: Additional countries added
 - 2020-02-29: Additional countries added, some regrouping for filters, different formulat for %deaths (deaths/(deaths+recovered))
 - 2020-02-28: Additional countries added
