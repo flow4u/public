@@ -3,6 +3,7 @@
 # [Covid_19.ipynb](https://github.com/flow4u/public/blob/master/Covid_19.ipynb)
 
 **Update**
+- 2020-03-08: Additional countries added, user interaction improved
 - 2020-03-06: Additional countries added, country selection redone, graphs in tabs
 - 2020-03-05: Additional countries added
 - 2020-03-04: Additional countries added, a few extra filters
