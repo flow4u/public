@@ -22,7 +22,7 @@ A number of filters can be applied (e.g. Europe, Asia, Asia excl Mainland China,
 
 The filters need to be updated manually when new countries are added to the CSSEGISandData datasets.
 
-### Graph 1
+### Graph 1 (normal or log scale of # of people)
 - Confirmed
 - Existing (Confirmed - Recovered - Diseased)
 - Deaths
