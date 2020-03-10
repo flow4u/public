@@ -3,6 +3,7 @@
 # [Covid_19.ipynb](https://github.com/flow4u/public/blob/master/Covid_19.ipynb)
 
 **Update**
+- 2020-03-10: Additional countries added, all Matlibplot graphs replaced with more user interactive Plotly Express plots
 - 2020-03-08: Additional countries added, user interaction improved
 - 2020-03-06: Additional countries added, country selection redone, graphs in tabs
 - 2020-03-05: Additional countries added
@@ -27,5 +28,6 @@ The filters need to be updated manually when new countries are added to the CSSE
 - Recovered + Deaths
 ### Graph 2
 - Estimated Recovery Days (date difference between Confirmed >= (Deaths+Recovered)
+### Graph 3
 - Estimated Mortality (% Deaths / (Deaths+Recovered) - high estimate
 - Estimated Mortality (% Deaths / (Confirmed) ~ low estimate
