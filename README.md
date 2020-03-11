@@ -3,6 +3,7 @@
 # [Covid_19.ipynb](https://github.com/flow4u/public/blob/master/Covid_19.ipynb)
 
 **Update**
+- 2020-03-11: Countries added, political incorrect country names removed
 - 2020-03-10: Special buttons added: Toggle log/normal, toggle selection of countries per continent  
 - 2020-03-10: Additional countries added, all Matlibplot graphs replaced with more user interactive Plotly Express plots
 - 2020-03-08: Additional countries added, user interaction improved
