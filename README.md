@@ -3,6 +3,7 @@
 # [Covid_19.ipynb](https://github.com/flow4u/public/blob/master/Covid_19.ipynb)
 
 **Update**
+- 2020-03-15: Countries updated, estimated recovery days upper & lower
 - 2020-03-14: Countries updated
 - 2020-03-12: Countries updated, CSSEGISandData was currated
 - 2020-03-12: Countries added **poor data curration see https://github.com/CSSEGISandData/COVID-19/issues/536
@@ -31,10 +32,11 @@ The filters need to be updated manually when new countries are added to the CSSE
 - Existing (Confirmed - Recovered - Diseased)
 - Deaths
 - Recovered + Deaths
-### Graph 3
-- daily changes
 ### Graph 2
-- Estimated Recovery Days (date difference between Confirmed >= (Deaths+Recovered)
+- daily changes
 ### Graph 3
+- Estimated Recovery Days Lower: (date difference between Confirmed >= (Deaths+Recovered)
+- Estimated Recovery Days Upper: (date difference between Confirmed - Deaths >= (Recovered)
+### Graph 4
 - Estimated Mortality (% Deaths / (Deaths+Recovered) - high estimate
 - Estimated Mortality (% Deaths / (Confirmed) ~ low estimate
