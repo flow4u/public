@@ -3,6 +3,7 @@
 # [Covid_19.ipynb](https://github.com/flow4u/public/blob/master/Covid_19.ipynb)
 
 **Update**
+- 2020-03-17: Countries updated
 - 2020-03-15: Countries updated, estimated recovery days upper & lower
 - 2020-03-14: Countries updated
 - 2020-03-12: Countries updated, CSSEGISandData was currated
