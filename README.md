@@ -35,7 +35,7 @@ The filters need to be updated manually when new countries are added to the CSSE
 - Deaths
 - Recovered + Deaths
 ### Graph 2
-- daily changes
+- daily changes (Confirmed, Deaths, Recovered, Recovered + Deaths)
 ### Graph 3
 - Estimated Recovery Days Lower: (date difference between Confirmed >= (Deaths+Recovered)
 - Estimated Recovery Days Upper: (date difference between Confirmed - Deaths >= (Recovered)
