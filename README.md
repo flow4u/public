@@ -7,9 +7,9 @@ The countries needed to be added manually when new countries are added to the CS
 
 <details>
   <summary>
-    <h3>Graphs</h3>
+    <h2>Graphs</h2>
   </summary>
-  <h2>Graph 1: The total numbers per day of a selection of countries</h2>
+  <h3>Graph 1: The total numbers per day of a selection of countries</h3>
   <p>normal or log scale for # of people</p>
   <lu>
     <li>Confirmed</li>
@@ -32,26 +32,30 @@ The countries needed to be added manually when new countries are added to the CS
 - Estimated Mortality (% Deaths / (Confirmed) ~ low estimate
 </details>
 
-## Updates
-- 2020-03-24: Countries updated, auto removal obsolete countries from filters, added graph: Death Rate Comparison
-- 2020-03-18: Countries updated, small code change to capture error with small numbers/early days
-- 2020-03-17: Countries updated
-- 2020-03-15: Countries updated, estimated recovery days upper & lower
-- 2020-03-14: Countries updated
-- 2020-03-12: Countries updated, CSSEGISandData was currated
-- 2020-03-12: Countries added **poor data curration see https://github.com/CSSEGISandData/COVID-19/issues/536
-- 2020-03-11: Countries added, political incorrect country names removed, added graph daily changes
-- 2020-03-10: Special buttons added: Toggle log/normal, toggle selection of countries per continent  
-- 2020-03-10: Additional countries added, all Matlibplot graphs replaced with more user interactive Plotly Express plots
-- 2020-03-08: Additional countries added, user interaction improved
-- 2020-03-06: Additional countries added, country selection redone, graphs in tabs
-- 2020-03-05: Additional countries added
-- 2020-03-04: Additional countries added, a few extra filters
-- 2020-03-03: Additional countries added, death rate upper and lower estimate
-- 2020-03-02: Additional countries added, made it a bit quicker to update filters
-- 2020-03-01: Additional countries added
-- 2020-02-29: Additional countries added, some regrouping for filters, different formulat for %deaths (deaths/(deaths+recovered))
-- 2020-02-28: Additional countries added
-- 2020-02-27: Additional countries added to filters, code improvement to make adding new countries to filters easier
-- 2020-02-26: Additional countries added to filters, Graph 3: Recovered + Deaths added
+<details>
+  <summary>
+    <h2>Updates</h2>
+  </summary>
+  <lu>
+    <li>2020-03-24: Countries updated, auto removal obsolete countries from filters, added graph: Death Rate Comparison</li>
+    <li>2020-03-18: Countries updated, small code change to capture error with small numbers/early days</li>
+<li>2020-03-17: Countries updated</li>
+<li>2020-03-15: Countries updated, estimated recovery days upper & lower</li>
+<li>2020-03-14: Countries updated</li>
+<li>2020-03-12: Countries updated, CSSEGISandData was currated</li>
+<li>2020-03-12: Countries added **poor data curration see https://github.com/CSSEGISandData/COVID-19/issues/536</li>
+<li>2020-03-11: Countries added, political incorrect country names removed, added graph daily changes</li>
+<li>2020-03-10: Special buttons added: Toggle log/normal, toggle selection of countries per continent</li>
+<li>2020-03-10: Additional countries added, all Matlibplot graphs replaced with more user interactive Plotly Express plots</li>
+<li>2020-03-08: Additional countries added, user interaction improved</li>
+<li>2020-03-06: Additional countries added, country selection redone, graphs in tabs</li>
+<li>2020-03-05: Additional countries added</li>
+<li>2020-03-04: Additional countries added, a few extra filters</li>
+<li>2020-03-03: Additional countries added, death rate upper and lower estimate</li>
+<li>2020-03-02: Additional countries added, made it a bit quicker to update filters</li>
+<li>2020-03-01: Additional countries added</li>
+<li>2020-02-29: Additional countries added, some regrouping for filters, different formulat for %deaths (deaths/(deaths+recovered))</li>
+<li>2020-02-28: Additional countries added</li>
+<li>2020-02-27: Additional countries added to filters, code improvement to make adding new countries to filters easier</li>
+<li>2020-02-26: Additional countries added to filters, Graph 3: Recovered + Deaths added</li>
 
