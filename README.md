@@ -5,15 +5,13 @@ Any country can be selected, a quick selection can be made per continent.
 
 The countries needed to be added manually when new countries are added to the CSSEGISandData datasets; every day this Colab will be updated with newly added countries.
 
-<details>
-  <summary><h2>Graphs</h2>
-  </summary>
+<details><summary><h2>Graphs</h2></summary>
   <h3>Graph 1: The total numbers per day of a selection of countries</h3>
   <p><b>normal or log scale for # of people</b></p>
   <lu>
     <li>Confirmed</li>
     <li>Existing (Confirmed - Recovered - Diseased)</li>
-    </li>Deaths</li>
+    <li>Deaths</li>
     <li>Recovered + Deaths</li>
   </lu>
 <h3>Graph 2: The total numbers per day of a selection of countries</h3>
