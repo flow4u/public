@@ -5,8 +5,8 @@ Any country can be selected, a quick selection can be made per continent.
 
 The countries needed to be added manually when new countries are added to the CSSEGISandData datasets; every day this Colab will be updated with newly added countries.
 
-###Graphs
-<details>
+### Graphs
+<details><summary></summary
   <h3>Graph 1: The total numbers per day of a selection of countries</h3>
   <p><b>normal or log scale for # of people</b></p>
   <lu>
@@ -38,10 +38,8 @@ The countries needed to be added manually when new countries are added to the CS
 </lu>
 </details>
 
-<details>
-  <summary>
-    <h2>Updates</h2>
-  </summary>
+### Updates
+<details><summary></summary>
   <lu>
     <li>2020-03-24: Countries updated, auto removal obsolete countries from filters, added graph: Death Rate Comparison</li>
     <li>2020-03-18: Countries updated, small code change to capture error with small numbers/early days</li>
