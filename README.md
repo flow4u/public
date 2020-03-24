@@ -1,8 +1,33 @@
-
-
 # [Covid_19.ipynb](https://github.com/flow4u/public/blob/master/Covid_19.ipynb)
 
-**Update**
+A Colab notebook to display the linked data from [Data Repository by Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19)
+Any country can be selected, a quick selection can be made per continent.
+
+The countries needed to be added manually when new countries are added to the CSSEGISandData datasets; every day this Colab will be updated with newly added countries.
+
+
+## Graphs
+### Graph 1: The total numbers per day of a selection of countries
+#### normal or log scale for # of people
+- Confirmed
+- Existing (Confirmed - Recovered - Diseased)
+- Deaths
+- Recovered + Deaths
+### Graph 2: The total numbers per day of a selection of countries
+#### normal or log scale for # of people
+- daily changes (Confirmed, Deaths, Recovered, Recovered + Deaths)
+### Graph 3: Death Progression per country of a selection of countries
+#### normal or log scale for # of deaths and # of days
+- Death Rate Comparision from 1ste day reported deaths
+(China data is shifted 13 days to the right for first death was reported on January 9th, data starts on January 22nd)
+### Graph 4: Estimated Recovery Days
+- Estimated Recovery Days Lower: (date difference between Confirmed >= (Deaths+Recovered)
+- Estimated Recovery Days Upper: (date difference between Confirmed - Deaths >= (Recovered)
+### Graph 5: Estimated Mortality Rate 
+- Estimated Mortality (% Deaths / (Deaths+Recovered) - high estimate
+- Estimated Mortality (% Deaths / (Confirmed) ~ low estimate
+
+## Updates
 - 2020-03-24: Countries updated, auto removal obsolete countries from filters, added graph: Death Rate Comparison
 - 2020-03-18: Countries updated, small code change to capture error with small numbers/early days
 - 2020-03-17: Countries updated
@@ -25,23 +50,3 @@
 - 2020-02-27: Additional countries added to filters, code improvement to make adding new countries to filters easier
 - 2020-02-26: Additional countries added to filters, Graph 3: Recovered + Deaths added
 
-A Colab notebook to display the linked data from [Data Repository by Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19)
-A number of filters can be applied (e.g. Europe, Asia, Asia excl Mainland China, Mainland China)
-
-The filters need to be updated manually when new countries are added to the CSSEGISandData datasets.
-
-### Graph 1 (normal or log scale for # of people)
-- Confirmed
-- Existing (Confirmed - Recovered - Diseased)
-- Deaths
-- Recovered + Deaths
-### Graph 2
-- daily changes (Confirmed, Deaths, Recovered, Recovered + Deaths)
-### Graph 3 (normal or log scale for # of deaths and # ofdays)
-- Death Rate Comparision from 1ste day reported deaths (China data is shifted 13 days to the right for first death was reported on January 9th, data starts on January 22nd)
-### Graph 4
-- Estimated Recovery Days Lower: (date difference between Confirmed >= (Deaths+Recovered)
-- Estimated Recovery Days Upper: (date difference between Confirmed - Deaths >= (Recovered)
-### Graph 5
-- Estimated Mortality (% Deaths / (Deaths+Recovered) - high estimate
-- Estimated Mortality (% Deaths / (Confirmed) ~ low estimate
