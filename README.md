@@ -15,7 +15,6 @@ The countries needed to be added manually when new countries are added to the CS
     <li>Graph 5: Estimated Mortality Rate</li>
     </summary>
   <hr>
-  <br>
   <h3>Graph 1: The total numbers per day of a selection of countries</h3>
   <p><b>normal or log scale for # of people</b></p>
   <lu>
