@@ -13,7 +13,9 @@ The countries needed to be added manually when new countries are added to the CS
     <li>Graph 3: Death Progression per country of a selection of countries</li>
     <li>Graph 4: Estimated Recovery Days</li>
     <li>Graph 5: Estimated Mortality Rate</li>
-  </summary
+    </summary>
+  <hr>
+  <br>
   <h3>Graph 1: The total numbers per day of a selection of countries</h3>
   <p><b>normal or log scale for # of people</b></p>
   <lu>
