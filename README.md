@@ -1,6 +1,6 @@
 # [Covid_19.ipynb](https://github.com/flow4u/public/blob/master/Covid_19.ipynb)
 
-A Colab notebook to display the linked data from [Data Repository by Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19)
+A [Colab notebook](https://colab.research.google.com/github/flow4u/public/blob/master/Covid_19.ipynb) to display the linked data from [Data Repository by Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19)
 Any country can be selected, a quick selection can be made per continent.
 
 The countries needed to be added manually when new countries are added to the CSSEGISandData datasets; every day this Colab will be updated with newly added countries.
