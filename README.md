@@ -3,6 +3,7 @@
 # [Covid_19.ipynb](https://github.com/flow4u/public/blob/master/Covid_19.ipynb)
 
 **Update**
+- 2020-03-24: Countries updated, auto removal obsolete countries from filters, added graph: Death Rate Comparison
 - 2020-03-18: Countries updated, small code change to capture error with small numbers/early days
 - 2020-03-17: Countries updated
 - 2020-03-15: Countries updated, estimated recovery days upper & lower
@@ -29,16 +30,18 @@ A number of filters can be applied (e.g. Europe, Asia, Asia excl Mainland China,
 
 The filters need to be updated manually when new countries are added to the CSSEGISandData datasets.
 
-### Graph 1 (normal or log scale of # of people)
+### Graph 1 (normal or log scale for # of people)
 - Confirmed
 - Existing (Confirmed - Recovered - Diseased)
 - Deaths
 - Recovered + Deaths
 ### Graph 2
 - daily changes (Confirmed, Deaths, Recovered, Recovered + Deaths)
-### Graph 3
+### Graph 3 (normal or log scale for # of deaths and # ofdays)
+- Death Rate Comparision from 1ste day reported deaths (China data is shifted 13 days to the right for first death was reported on January 9th, data starts on January 22nd)
+### Graph 4
 - Estimated Recovery Days Lower: (date difference between Confirmed >= (Deaths+Recovered)
 - Estimated Recovery Days Upper: (date difference between Confirmed - Deaths >= (Recovered)
-### Graph 4
+### Graph 5
 - Estimated Mortality (% Deaths / (Deaths+Recovered) - high estimate
 - Estimated Mortality (% Deaths / (Confirmed) ~ low estimate
