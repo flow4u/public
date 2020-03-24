@@ -7,14 +7,16 @@ The countries needed to be added manually when new countries are added to the CS
 
 <details>
   <summary>
-    ## Graphs
+    <h3>Graphs</h3>
   </summary>
-### Graph 1: The total numbers per day of a selection of countries
-#### normal or log scale for # of people
-- Confirmed
-- Existing (Confirmed - Recovered - Diseased)
-- Deaths
-- Recovered + Deaths
+  <h2>Graph 1: The total numbers per day of a selection of countries</h2>
+  <p>normal or log scale for # of people</p>
+  <lu>
+    <li>Confirmed</li>
+    <li>Existing (Confirmed - Recovered - Diseased)</li>
+    </li>Deaths</li>
+    <li>Recovered + Deaths</li>
+  </lu>
 ### Graph 2: The total numbers per day of a selection of countries
 #### normal or log scale for # of people
 - daily changes (Confirmed, Deaths, Recovered, Recovered + Deaths)
