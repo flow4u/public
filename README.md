@@ -5,8 +5,15 @@ Any country can be selected, a quick selection can be made per continent.
 
 The countries needed to be added manually when new countries are added to the CSSEGISandData datasets; every day this Colab will be updated with newly added countries.
 
-### Graphs
-<details><summary></summary
+## Graphs
+<details><summary>
+  <lu>
+    <li>Graph 1: The total numbers per day of a selection of countries</li>
+    <li>Graph 2: The total numbers per day of a selection of countries</li>
+    <li>Graph 3: Death Progression per country of a selection of countries</li>
+    <li>Graph 4: Estimated Recovery Days</li>
+    <li>Graph 5: Estimated Mortality Rate</li>
+  </summary
   <h3>Graph 1: The total numbers per day of a selection of countries</h3>
   <p><b>normal or log scale for # of people</b></p>
   <lu>
@@ -15,30 +22,34 @@ The countries needed to be added manually when new countries are added to the CS
     <li>Deaths</li>
     <li>Recovered + Deaths</li>
   </lu>
+</br>
 <h3>Graph 2: The total numbers per day of a selection of countries</h3>
 <p><b>normal or log scale for # of people</b></p>
 <lu>
   <li>daily changes (Confirmed, Deaths, Recovered, Recovered + Deaths)</li>
 </lu>
+</br>
 <h3>Graph 3: Death Progression per country of a selection of countries</h3>
 <b>normal or log scale for # of deaths and # of days</b>
 <lu>
   <li>Death Rate Comparision from 1ste day reported deaths</li>
 </lu>
 (China data is shifted 13 days to the right for first death was reported on January 9th, data starts on January 22nd)
+</br>
 <h3>Graph 4: Estimated Recovery Days</h3>
 <lu>
   <li>Estimated Recovery Days Lower: (date difference between Confirmed >= (Deaths+Recovered)</li>
   <li>Estimated Recovery Days Upper: (date difference between Confirmed - Deaths >= (Recovered)</li>
 </lu>
-<h3>Graph 5: Estimated Mortality Rate </h3>
+</br>
+<h3>Graph 5: Estimated Mortality Rate</h3>
 <lu>
   <li>Estimated Mortality (% Deaths / (Deaths+Recovered) - high estimate</li>
   <li>Estimated Mortality (% Deaths / (Confirmed) ~ low estimate</li>
 </lu>
 </details>
 
-### Updates
+## Updates
 <details><summary></summary>
   <lu>
     <li>2020-03-24: Countries updated, auto removal obsolete countries from filters, added graph: Death Rate Comparison</li>
