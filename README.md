@@ -30,15 +30,13 @@ The countries need to be added manually when new countries are added to the CSSE
   <p><b>normal or log scale for # of people</b></p>
   <lu>
     <li>Confirmed</li>
-    <li>Existing (Confirmed - Recovered - Diseased)</li>
     <li>Deaths</li>
-    <li>Recovered + Deaths</li>
   </lu>
 </br>
 <h3>Graph 2: The total numbers per day of a selection of countries</h3>
 <p><b>normal or log scale for # of people</b></p>
 <lu>
-  <li>daily changes (Confirmed, Deaths, Recovered, Recovered + Deaths)</li>
+  <li>daily changes (Confirmed, Deaths)</li>
 </lu>
 </br>
 <h3>Graph 3: Death Progression per country of a selection of countries</h3>
@@ -50,13 +48,11 @@ The countries need to be added manually when new countries are added to the CSSE
 </br>
 <h3>Graph 4: Estimated Recovery Days of all selected countries</h3>
 <lu>
-  <li>Estimated Recovery Days Lower: (date difference between Confirmed >= (Deaths+Recovered)</li>
   <li>Estimated Recovery Days Upper: (date difference between Confirmed - Deaths >= (Recovered)</li>
 </lu>
 </br>
 <h3>Graph 5: Estimated Mortality Rate of all selected countries</h3>
 <lu>
-  <li>Estimated Mortality (% Deaths / (Deaths+Recovered) - high estimate</li>
   <li>Estimated Mortality (% Deaths / (Confirmed) ~ low estimate</li>
 </lu>
 </details>
