@@ -5,6 +5,11 @@ Any country can be selected, a quick selection can be made per continent.
 
 The countries needed to be added manually when new countries are added to the CSSEGISandData datasets; every day this Colab will be updated with newly added countries.
 
+## Sources
+- [Data Repository by Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19)
+- [Population data from WorldOMeter](https://www.worldometers.info/world-population/population-by-country/)
+- [Population data mapped to CSSEGISandData] (https://github.com/flow4u/public/blob/master/Countries%20-%20COVID-19%20countries%20-%20CountriesMapped.csv) 
+
 ## Graphs
 <details><summary>
   <lu>
