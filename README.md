@@ -43,13 +43,13 @@ The countries needed to be added manually when new countries are added to the CS
 </lu>
 (China data is shifted 13 days to the right for first death was reported on January 9th, data starts on January 22nd)
 </br>
-<h3>Graph 4: Estimated Recovery Days</h3>
+<h3>Graph 4: Estimated Recovery Days of all selected countries</h3>
 <lu>
   <li>Estimated Recovery Days Lower: (date difference between Confirmed >= (Deaths+Recovered)</li>
   <li>Estimated Recovery Days Upper: (date difference between Confirmed - Deaths >= (Recovered)</li>
 </lu>
 </br>
-<h3>Graph 5: Estimated Mortality Rate</h3>
+<h3>Graph 5: Estimated Mortality Rate of all selected countries</h3>
 <lu>
   <li>Estimated Mortality (% Deaths / (Deaths+Recovered) - high estimate</li>
   <li>Estimated Mortality (% Deaths / (Confirmed) ~ low estimate</li>
