@@ -8,7 +8,7 @@ The countries needed to be added manually when new countries are added to the CS
 ## Sources
 - [Data Repository by Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19)
 - [Population data from WorldOMeter](https://www.worldometers.info/world-population/population-by-country/)
-- [Population data mapped to CSSEGISandData] (https://github.com/flow4u/public/blob/master/Countries%20-%20COVID-19%20countries%20-%20CountriesMapped.csv) 
+- [Population data mapped to CSSEGISandData](https://github.com/flow4u/public/blob/master/Countries%20-%20COVID-19%20countries%20-%20CountriesMapped.csv) 
 
 ## Graphs
 <details><summary>
