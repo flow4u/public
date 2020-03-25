@@ -12,7 +12,12 @@ The countries needed to be added manually when new countries are added to the CS
 
 ## Graphs
 <details><summary><i>Click to expand for details</i>
-  <p></p>
+  <p><h5>Special Buttons</h5>
+  <lu>
+    <li>Ynormal/log: toggles between normal and log for y-axis, applies to Graph 1, 2 and 3</li>
+    <li><b>Xnormal/log</b>: toggles between normal and log for x-axis, applies only to Graph 3</li>
+    <li><b>normal/per 1000</b>: toggles between normal and normal/country population * 1000, applies only to Graph 3</li>
+    <li><b>toggle <i>continent</i></b>: (de)selects all the countries of that continent, applies to all graphs</p>
   <lu>
     <li>Graph 1: The total numbers per day of a selection of countries</li>
     <li>Graph 2: The total numbers per day of a selection of countries</li>
