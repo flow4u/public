@@ -12,6 +12,7 @@ The countries needed to be added manually when new countries are added to the CS
 
 ## Graphs
 <details><summary><i>Click to expand for details</i>
+  </br>
   <lu>
     <li>Graph 1: The total numbers per day of a selection of countries</li>
     <li>Graph 2: The total numbers per day of a selection of countries</li>
@@ -56,7 +57,7 @@ The countries needed to be added manually when new countries are added to the CS
 </details>
 
 ## Updates
-<details><summary><i>Click to expand for details</i></br></summary>
+<details><summary><i>Click to expand for details</i></summary></br>
   <lu>
     <li>2020-03-25: Graph 3 updated, added toggle button between absolute # of death and per 1000 people. For this the dataset <a href="https://github.com/flow4u/public/blob/master/Countries%20-%20COVID-19%20countries%20-%20CountriesMapped.csv", target='blank'>Countries - COVID-19 countries - CountriesMapped.csv</a> is used
     <li>2020-03-24: Countries updated, auto removal obsolete countries from filters, added graph: Death Rate Comparison</li>
