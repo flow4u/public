@@ -12,7 +12,7 @@ The countries needed to be added manually when new countries are added to the CS
 
 ## Graphs
 <details><summary><i>Click to expand for details</i>
-  </br>
+  <p></p>
   <lu>
     <li>Graph 1: The total numbers per day of a selection of countries</li>
     <li>Graph 2: The total numbers per day of a selection of countries</li>
