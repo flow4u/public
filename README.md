@@ -60,6 +60,7 @@ The countries need to be added manually when new countries are added to the CSSE
 ## Updates
 <details><summary><i>Click to expand for details</i></summary></br>
   <lu>
+  <li>2020-03-30: Updated countries, started doing some code refacturing</li>
   <li>2020-03-26: <a href="https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series", target=blank>CSSEGISandData depreciated the source files, no longer is Recovered reported</a>, code changes made</li>
     <li>2020-03-25: Graph 3 updated, added toggle button between absolute # of death and per 1000 people. For this the dataset <a href="https://github.com/flow4u/public/blob/master/Countries%20-%20COVID-19%20countries%20-%20CountriesMapped.csv", target='blank'>Countries - COVID-19 countries - CountriesMapped.csv</a> is used</li>
     <li>2020-03-24: Countries updated, auto removal obsolete countries from filters, added graph: Death Rate Comparison</li>
